@@ -1,2 +1,0 @@
-in Main - fix generate method to be user friendly, "type 'end' to finish" 
-
